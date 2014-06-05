@@ -1,0 +1,10 @@
+dn: uid=nicholas,ou=Users,dc=example,dc=com
+dn: Nicholas Malebranche
+sn: Malebranche
+uid: nicholas
+ou: Users
+userPassword: {SSHA}KPAVjbaiaQEYkl0gtUQrFSp2/bVxTvJr
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+
